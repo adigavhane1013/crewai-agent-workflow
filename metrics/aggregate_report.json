@@ -1,0 +1,15 @@
+{
+    "total_runs": 2,
+    "pass_rate_percent": 100.0,
+    "avg_verification_rate_percent": 100.0,
+    "avg_citation_coverage_percent": 98.22,
+    "best_verification_rate_percent": 100.0,
+    "best_citation_coverage_percent": 100.0,
+    "total_claims_evaluated": 41,
+    "total_verified_claims": 41,
+    "total_unsupported_claims": 0,
+    "topics_covered": [
+        "React.js",
+        "python"
+    ]
+}

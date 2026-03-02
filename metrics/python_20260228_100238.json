@@ -1,0 +1,11 @@
+{
+    "topic": "python",
+    "timestamp": "20260228_100238",
+    "total_claims": 13,
+    "verified_claims": 13,
+    "unsupported_claims": 0,
+    "missing_citations": 0,
+    "verification_rate_percent": 100.0,
+    "citation_coverage_percent": 100.0,
+    "verdict": "PASS"
+}
